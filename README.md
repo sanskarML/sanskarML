@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @sanskarML
-- 👀 I’m interested in women
+- 👋 Hi, I’m @sanskar
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on aws
 - 📫 How to reach me ...
